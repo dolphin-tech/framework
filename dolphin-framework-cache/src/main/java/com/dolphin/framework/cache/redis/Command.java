@@ -12,14 +12,7 @@
 package com.dolphin.framework.cache.redis;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: Command
- * @description: Redis命令清单
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public enum Command {
 	

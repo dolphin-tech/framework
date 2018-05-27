@@ -22,14 +22,7 @@ import com.dolphin.framework.cache.redis.performance.IRedisPerformance;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: RedisFactory
- * @description: Redis工厂类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public final class RedisFactory {
 	

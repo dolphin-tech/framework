@@ -23,14 +23,7 @@ import com.dolphin.framework.cache.util.IOUtil;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: RedisUtil
- * @description: RedisUtil工具类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2014-9-18
+ * @author steven.zhou
  */
 public final class RedisUtil {
 	

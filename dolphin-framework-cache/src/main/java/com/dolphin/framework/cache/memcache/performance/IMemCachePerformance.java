@@ -11,6 +11,9 @@
  */
 package com.dolphin.framework.cache.memcache.performance;
 
+/**
+ * @author steven.zhou
+ */
 public interface IMemCachePerformance {
 	public void report(String cmd, String key, long cCost, long eCost);
 }

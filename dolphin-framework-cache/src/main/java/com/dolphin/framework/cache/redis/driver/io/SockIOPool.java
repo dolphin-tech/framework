@@ -26,14 +26,7 @@ import com.dolphin.framework.cache.redis.driver.io.ISockIO;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SockIOPool
- * @description: Redis Sock连接池
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public final class SockIOPool {
 

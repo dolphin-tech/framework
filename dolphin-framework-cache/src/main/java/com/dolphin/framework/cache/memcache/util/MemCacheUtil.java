@@ -21,14 +21,7 @@ import java.util.Map;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: MemCacheUtil
- * @description: MemCacheUtil工具类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-4-23
+ * @author steven.zhou
  */
 public final class MemCacheUtil {
 

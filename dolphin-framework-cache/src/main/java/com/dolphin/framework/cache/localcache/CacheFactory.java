@@ -33,14 +33,7 @@ import com.dolphin.framework.cache.localcache.interfaces.IReadOnlyCache;
 import com.dolphin.framework.cache.localcache.interfaces.IReadWriteCache;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: CacheFactory
- * @description: 本次缓存工厂类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public final class CacheFactory {
 

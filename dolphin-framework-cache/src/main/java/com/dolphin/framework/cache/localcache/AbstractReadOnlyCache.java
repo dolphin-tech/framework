@@ -20,6 +20,9 @@ import org.apache.log4j.Logger;
 
 import com.dolphin.framework.cache.localcache.interfaces.IReadOnlyCache;
 
+/**
+ * @author steven.zhou
+ */
 public abstract class AbstractReadOnlyCache implements IReadOnlyCache {
 
 	private static final Logger LOG = Logger.getLogger(AbstractReadOnlyCache.class);

@@ -13,6 +13,9 @@ package com.dolphin.framework.cache.memcache.performance.impl;
 
 import com.dolphin.framework.cache.memcache.performance.IMemCachePerformance;
 
+/**
+ * @author steven.zhou
+ */
 public class LazyWorkPerformance implements IMemCachePerformance {
 
 	@Override

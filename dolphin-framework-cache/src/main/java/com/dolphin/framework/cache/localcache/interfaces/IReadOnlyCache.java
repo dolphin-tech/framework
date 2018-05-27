@@ -16,14 +16,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: IReadOnlyCache
- * @description: 只读缓存接口
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public interface IReadOnlyCache {
 

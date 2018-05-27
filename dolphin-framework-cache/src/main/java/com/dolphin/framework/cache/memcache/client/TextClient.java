@@ -31,14 +31,7 @@ import com.dolphin.framework.cache.util.IOUtil;
 import com.dolphin.framework.cache.util.MD5Util;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: TextClient
- * @description: 基于文本协议的客户端
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-19
+ * @author steven.zhou
  */
 public final class TextClient implements IMemCache {
 

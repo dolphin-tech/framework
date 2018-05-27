@@ -15,6 +15,9 @@ import java.util.TreeSet;
 
 import com.dolphin.framework.cache.memcache.MemCacheAddress;
 
+/**
+ * @author steven.zhou
+ */
 class MemCacheCluster {
 	
 	private String name = null;

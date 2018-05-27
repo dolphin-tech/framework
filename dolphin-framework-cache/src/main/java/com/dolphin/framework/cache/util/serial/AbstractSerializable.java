@@ -20,14 +20,7 @@ import java.util.zip.GZIPOutputStream;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: AbstractSerializable
- * @description: 序列化与反序列化抽象类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public abstract class AbstractSerializable implements ISerializable {
 

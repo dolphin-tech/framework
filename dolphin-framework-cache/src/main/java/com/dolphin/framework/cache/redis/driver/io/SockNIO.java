@@ -23,14 +23,7 @@ import java.util.Arrays;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SockNIO
- * @description: 基于NIO方式实现的ISockIO
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public class SockNIO implements ISockIO {
 

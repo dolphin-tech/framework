@@ -20,14 +20,7 @@ import org.apache.log4j.Logger;
 import com.dolphin.framework.cache.memcache.driver.io.SockIOBucket;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: SimpleSockIOBucket
- * @description: 无备地址的SockIO桶
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-24
+ * @author steven.zhou
  */
 public class SimpleSockIOBucket extends SockIOBucket {
 

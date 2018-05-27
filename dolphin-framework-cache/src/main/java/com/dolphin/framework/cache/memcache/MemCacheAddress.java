@@ -12,14 +12,7 @@
 package com.dolphin.framework.cache.memcache;
 
 /**
- * Copyright: Copyright (c) 2014 Asiainfo
- * 
- * @className: MemCacheAddress
- * @description: MemCache地址对象
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2014-7-14
+ * @author steven.zhou
  */
 public class MemCacheAddress implements Comparable<MemCacheAddress> {
 

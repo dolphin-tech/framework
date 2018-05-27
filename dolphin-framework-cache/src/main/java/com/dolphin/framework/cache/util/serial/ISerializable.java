@@ -12,14 +12,7 @@
 package com.dolphin.framework.cache.util.serial;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: ISerializable
- * @description: 序列化接口
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public interface ISerializable {
 	

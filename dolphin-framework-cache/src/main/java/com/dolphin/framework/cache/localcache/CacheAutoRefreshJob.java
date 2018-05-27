@@ -20,6 +20,9 @@ import org.quartz.JobExecutionException;
 import com.dolphin.framework.cache.localcache.interfaces.IReadOnlyCache;
 import com.dolphin.framework.cache.localcache.interfaces.IReadWriteCache;
 
+/**
+ * @author steven.zhou
+ */
 public class CacheAutoRefreshJob implements Job {
 
 	private static final transient Logger log = Logger.getLogger(CacheAutoRefreshJob.class);

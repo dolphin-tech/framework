@@ -13,6 +13,9 @@ package com.dolphin.framework.cache.redis.performance.impl;
 
 import com.dolphin.framework.cache.redis.performance.IRedisPerformance;
 
+/**
+ * @author steven.zhou
+ */
 public class LazyWorkPerformance implements IRedisPerformance {
 
 	@Override

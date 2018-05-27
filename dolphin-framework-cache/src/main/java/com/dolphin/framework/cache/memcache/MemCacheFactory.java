@@ -24,14 +24,7 @@ import com.dolphin.framework.cache.redis.RedisFactory;
 import com.dolphin.framework.cache.redis.performance.IRedisPerformance;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: MemCacheFactory
- * @description: Memcache工厂类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-18
+ * @author steven.zhou
  */
 public final class MemCacheFactory {
 	

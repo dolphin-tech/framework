@@ -23,14 +23,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SockIOPool
- * @description: Socket连接池
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-24
+ * @author steven.zhou
  */
 public class SockIOPool {
 

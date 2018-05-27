@@ -14,14 +14,7 @@ package com.dolphin.framework.cache.memcache.driver.io;
 import java.io.IOException;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: ISockIO
- * @description: SockIO接口
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-19
+ * @author steven.zhou
  */
 public interface ISockIO {
 		

@@ -18,14 +18,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: HASockIOBucket
- * @description: 带主备功能的SockIO桶
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-24
+ * @author steven.zhou
  */
 public class HASockIOBucket extends SockIOBucket {
 

@@ -31,14 +31,7 @@ import com.dolphin.framework.cache.util.serial.ISerializable;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: BinaryRedisClient
- * @description: 客户端（基于原始二进制方式实现）
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public class BinaryRedisClient {
 

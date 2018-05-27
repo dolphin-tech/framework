@@ -25,14 +25,7 @@ import com.dolphin.framework.cache.memcache.driver.io.ISockIO;
 import com.dolphin.framework.cache.memcache.driver.io.SockIOBucket;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SockNIO
- * @description: 基于NIO实现
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-24
+ * @author steven.zhou
  */
 public class SockNIO implements ISockIO {
 

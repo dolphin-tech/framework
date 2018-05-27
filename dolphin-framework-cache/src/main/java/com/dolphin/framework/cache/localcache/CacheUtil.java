@@ -18,14 +18,7 @@ import java.io.ObjectOutputStream;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: CacheUtil
- * @description: Cache工具类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public final class CacheUtil {
 	

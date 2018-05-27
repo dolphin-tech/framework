@@ -16,14 +16,7 @@ import java.io.IOException;
 import com.dolphin.framework.cache.redis.driver.io.SockIOBucket;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: ISockIO
- * @description: Redis Sock接口
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public interface ISockIO {
 	

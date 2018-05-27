@@ -17,14 +17,7 @@ import com.dolphin.framework.cache.memcache.MemCacheFactory;
 import com.dolphin.framework.cache.memcache.interfaces.IMemCache;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SharedCache
- * @description: 共享缓存
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-6-13
+ * @author steven.zhou
  */
 public final class SharedCache {
 	

@@ -14,14 +14,7 @@ package com.dolphin.framework.cache.memcache.driver.io;
 import java.io.IOException;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: SockIOBucket
- * @description: SockIO桶
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-24
+ * @author steven.zhou
  */
 public abstract class SockIOBucket implements Comparable<SockIOBucket> {
 

@@ -20,14 +20,7 @@ import java.io.ObjectOutputStream;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: DefaultSerializable
- * @description: 默认Java序列化与反序列化实现
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-20
+ * @author steven.zhou
  */
 public class DefaultSerializable extends AbstractSerializable {
 	

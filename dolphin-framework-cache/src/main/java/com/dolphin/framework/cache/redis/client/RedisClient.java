@@ -22,14 +22,7 @@ import com.dolphin.framework.cache.redis.RedisAddress;
 import com.dolphin.framework.cache.util.IOUtil;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: RedisClient
- * @description: Redis客户端
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public class RedisClient extends BinaryRedisClient {
 	

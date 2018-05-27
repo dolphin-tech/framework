@@ -20,14 +20,7 @@ import org.apache.log4j.Logger;
 import com.dolphin.framework.cache.localcache.interfaces.IReadWriteCache;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: ReadWriteCache
- * @description: 读写缓存实现类。
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public class ReadWriteCache implements IReadWriteCache {
 

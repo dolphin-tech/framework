@@ -27,14 +27,7 @@ import org.jdom.input.SAXBuilder;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo
- * 
- * @className: MemCacheXml
- * @description: MemCacheXml解析类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-16
+ * @author steven.zhou
  */
 public final class MemCacheXml {
 	

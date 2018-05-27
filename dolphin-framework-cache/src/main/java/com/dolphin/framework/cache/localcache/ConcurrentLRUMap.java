@@ -20,15 +20,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: ConcurrentLRUMap
- * @description: 线程安全的LRUMap，采用ConcurrentHashMap机制实现细粒度锁，提高并发度.<br>
- *               最大容量会自动转换成能整除16的最小倍数，默认容量为1024。
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-11-8
+ * @author steven.zhou
  */
 public class ConcurrentLRUMap<K, V> implements Serializable {
 

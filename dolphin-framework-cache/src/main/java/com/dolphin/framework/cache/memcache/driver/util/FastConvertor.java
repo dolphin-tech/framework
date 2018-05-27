@@ -14,14 +14,7 @@ package com.dolphin.framework.cache.memcache.driver.util;
 import java.util.Date;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: FastConvertor
- * @description: 快速类型转换器
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 public final class FastConvertor {
 	

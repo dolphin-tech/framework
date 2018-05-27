@@ -12,14 +12,7 @@
 package com.dolphin.framework.cache.redis;
 
 /**
- * Copyright: Copyright (c) 2014 Asiainfo
- * 
- * @className: RedisAddress
- * @description: Redis地址对象
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2014-7-14
+ * @author steven.zhou
  */
 public class RedisAddress implements Comparable<RedisAddress> {
 	

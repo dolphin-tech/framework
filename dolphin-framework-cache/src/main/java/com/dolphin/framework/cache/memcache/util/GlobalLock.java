@@ -17,14 +17,7 @@ import com.dolphin.framework.cache.memcache.MemCacheFactory;
 import com.dolphin.framework.cache.memcache.interfaces.IMemCache;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: GlobalLock
- * @description: 全局锁
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-5-27
+ * @author steven.zhou
  */
 public final class GlobalLock {
 

@@ -14,14 +14,7 @@ package com.dolphin.framework.cache.memcache.interfaces;
 import java.util.Date;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: IMemCache
- * @description: IMemCache接口
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-3-18
+ * @author steven.zhou
  */
 public interface IMemCache {
 	

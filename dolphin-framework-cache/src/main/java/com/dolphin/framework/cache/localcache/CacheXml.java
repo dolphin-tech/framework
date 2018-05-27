@@ -25,14 +25,7 @@ import org.jdom.Element;
 import org.jdom.input.SAXBuilder;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: CacheXml
- * @description: Cache配置文件解析类。
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
+ * @author steven.zhou
  */
 final class CacheXml {
 

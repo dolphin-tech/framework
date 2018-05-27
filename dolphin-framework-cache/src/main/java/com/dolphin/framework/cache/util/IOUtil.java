@@ -12,14 +12,7 @@
 package com.dolphin.framework.cache.util;
 
 /**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: IOUtil
- * @description: 数字编码工具类
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-8-5
+ * @author steven.zhou
  */
 public final class IOUtil {
 		

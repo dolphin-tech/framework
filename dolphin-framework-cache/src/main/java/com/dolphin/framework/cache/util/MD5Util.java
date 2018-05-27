@@ -17,14 +17,7 @@ import java.security.NoSuchAlgorithmException;
 import org.apache.log4j.Logger;
 
 /**
- * Copyright: Copyright (c) 2015 Asiainfo
- * 
- * @className: MD5Util
- * @description: MD5工具
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2015-7-26
+ * @author steven.zhou
  */
 public final class MD5Util {
 
