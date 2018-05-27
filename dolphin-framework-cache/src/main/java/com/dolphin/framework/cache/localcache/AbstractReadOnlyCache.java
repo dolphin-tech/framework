@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2018. Dolphin.com Corporation Limited.
+ * All rights reserved.
+ *
+ * This software is the confidential and proprietary information of
+ * Dolphin Company. ("Confidential Information").  You shall not
+ * disclose such Confidential Information and shall use it only in
+ * accordance with the terms of the license agreement you entered into
+ * with Dolphin.com.
+ *
+ */
 package com.dolphin.framework.cache.localcache;
 
 import java.util.Iterator;
@@ -9,16 +20,6 @@ import org.apache.log4j.Logger;
 
 import com.dolphin.framework.cache.localcache.interfaces.IReadOnlyCache;
 
-/**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: AbstractReadOnlyCache
- * @description: 只读缓存抽象类，作为业务只读缓存类的基类。
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
- */
 public abstract class AbstractReadOnlyCache implements IReadOnlyCache {
 
 	private static final Logger LOG = Logger.getLogger(AbstractReadOnlyCache.class);

@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2018. Dolphin.com Corporation Limited.
+ * All rights reserved.
+ *
+ * This software is the confidential and proprietary information of
+ * Dolphin Company. ("Confidential Information").  You shall not
+ * disclose such Confidential Information and shall use it only in
+ * accordance with the terms of the license agreement you entered into
+ * with Dolphin.com.
+ *
+ */
 package com.dolphin.framework.cache.localcache;
 
 import org.apache.log4j.Logger;
@@ -9,16 +20,6 @@ import org.quartz.JobExecutionException;
 import com.dolphin.framework.cache.localcache.interfaces.IReadOnlyCache;
 import com.dolphin.framework.cache.localcache.interfaces.IReadWriteCache;
 
-/**
- * Copyright: Copyright (c) 2013 Asiainfo-Linkage
- * 
- * @className: CacheAutoRefreshJob
- * @description: 缓存自动刷新Job
- * 
- * @version: v1.0.0
- * @author: zhoulin2
- * @date: 2013-2-25
- */
 public class CacheAutoRefreshJob implements Job {
 
 	private static final transient Logger log = Logger.getLogger(CacheAutoRefreshJob.class);
